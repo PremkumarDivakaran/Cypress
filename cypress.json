@@ -1,0 +1,7 @@
+{
+    "baseUrl" : "https://reqres.in/",
+    "defaultCommandTimeout" : 5000,
+    "env" :{
+        "url" : "https://computer-database.gatling.io/computers"
+    }
+}
